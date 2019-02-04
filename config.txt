@@ -1,6 +1,7 @@
 token=NTQxNzIyNzU0NjUxNzgzMTc4.DzpI4g.fa-wJRIAT3hqfOalX-zHid_masY
 owner=271676397406126082
 prefix= $
-game= No One Care
+game= سيبقى حذائي وكلام الناس أخوه للأبد
 stayinchannel=true
 songinstatus=false 
+setstatus=dnd
